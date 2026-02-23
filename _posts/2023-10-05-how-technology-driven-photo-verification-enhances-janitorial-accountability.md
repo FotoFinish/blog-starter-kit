@@ -1,3 +1,10 @@
+coverImage: "/assets/blog/hello-world/cover.jpg"
+author:
+  name: "FotoFinish"
+  picture: "/assets/blog/authors/tim.jpeg"
+ogImage:
+  url: "/assets/blog/hello-world/cover.jpg"
+
 ## How Technology-Driven Photo Verification Enhances Janitorial Accountability
 
 In today's fast-paced environment, maintaining accountability in janitorial services is more crucial than ever. Technology-driven photo verification is revolutionizing how operations managers oversee cleaning processes, ensuring transparency and reliability in service delivery. This blog post discusses how leveraging this technology enhances janitorial accountability, providing actionable insights to integrate it into your operations.
