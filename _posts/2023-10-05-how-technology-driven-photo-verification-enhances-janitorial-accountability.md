@@ -1,9 +1,14 @@
+---
+title: "How Technology-Driven Photo Verification Enhances Janitorial Accountability"
+excerpt: "How photo-validated checklists improve consistency, reduce missed work, and give managers clear visibility across sites."
 coverImage: "/assets/blog/hello-world/cover.jpg"
+date: "2023-10-05T00:00:00.000Z"
 author:
   name: "FotoFinish"
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
+---
 
 ## How Technology-Driven Photo Verification Enhances Janitorial Accountability
 
