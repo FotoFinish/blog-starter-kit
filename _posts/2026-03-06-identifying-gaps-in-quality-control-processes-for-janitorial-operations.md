@@ -1,13 +1,14 @@
 ---
 title: "Identifying Gaps in Quality Control Processes for Janitorial Operations"
 excerpt: "Learn how to identify and address quality control gaps in janitorial operations to enhance accountability and service delivery."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-dashboard.png"
 date: "2026-03-06T08:15:04-05:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-dashboard.png"
 ---
 
 ## Identifying Gaps in Quality Control Processes for Janitorial Operations

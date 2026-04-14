@@ -1,13 +1,14 @@
 ---
 title: "Strategies for Mitigating Costs Through Effective Resource Allocation"
 excerpt: "Explore actionable strategies for operations managers to enhance accountability and transparency in resource allocation, leading to effective cost control in janitorial services."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-manager.png"
 date: "2026-04-01T08:15:07-04:00"
+category: "Cost Reduction"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-manager.png"
 ---
 
 ## Strategies for Mitigating Costs Through Effective Resource Allocation

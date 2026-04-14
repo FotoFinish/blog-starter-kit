@@ -1,13 +1,14 @@
 ---
 title: "How Real-Time Photo Verification Prevents Costly Cleaning Oversights"
 excerpt: "Discover how real-time photo verification can reduce cleaning oversights in multi-site operations, improving accountability and efficiency."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "/assets/blog/Covers/cover-sink.png"
 date: "2026-02-26T08:15:06-05:00"
+category: "Photo Verification"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "/assets/blog/Covers/cover-sink.png"
 ---
 
 ## How Real-Time Photo Verification Prevents Costly Cleaning Oversights

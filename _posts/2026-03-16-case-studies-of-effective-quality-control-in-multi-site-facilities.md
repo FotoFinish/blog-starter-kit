@@ -1,13 +1,14 @@
 ---
 title: "Case Studies of Effective Quality Control in Multi-Site Facilities"
 excerpt: "Explore actionable insights and case studies on effective quality control in multi-site facilities to enhance accountability and transparency in janitorial operations."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "/assets/blog/Covers/cover-dashboard.png"
 date: "2026-03-16T08:15:04-04:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "/assets/blog/Covers/cover-dashboard.png"
 ---
 
 ## Case Studies of Effective Quality Control in Multi-Site Facilities

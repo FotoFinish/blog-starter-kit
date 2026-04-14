@@ -1,13 +1,14 @@
 ---
 title: "Training Staff to Handle Compliance Complexities with Confidence"
 excerpt: "Explore actionable strategies for effective compliance training for staff in facility management, enhancing accountability and operational efficiency."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-04-10T08:15:04-04:00"
+category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Training Staff to Handle Compliance Complexities with Confidence

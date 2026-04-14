@@ -1,13 +1,14 @@
 ---
 title: "Discovering the Link Between Quality Control and Customer Satisfaction"
 excerpt: "Explore the vital connection between quality control and customer satisfaction in facility management. Discover actionable insights to enhance service delivery."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-sink.png"
 date: "2026-04-08T08:15:03-04:00"
+category: "Photo Verification"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-sink.png"
 ---
 
 # Discovering the Link Between Quality Control and Customer Satisfaction

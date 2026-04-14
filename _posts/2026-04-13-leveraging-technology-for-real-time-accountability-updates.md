@@ -1,13 +1,14 @@
 ---
 title: "Leveraging Technology for Real-Time Accountability Updates"
 excerpt: "Discover how Real-Time Accountability Technology can transform janitorial operations, enhancing communication, efficiency, and accountability for operations managers."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-04-13T08:15:02-04:00"
+category: "Photo Verification"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Leveraging Technology for Real-Time Accountability Updates

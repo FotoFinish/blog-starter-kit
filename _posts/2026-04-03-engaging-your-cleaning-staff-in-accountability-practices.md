@@ -1,13 +1,14 @@
 ---
 title: "Engaging Your Cleaning Staff in Accountability Practices"
 excerpt: "Discover strategies to enhance accountability among cleaning staff with clear roles, technology, and recognition. Improve efficiency and morale."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "/assets/blog/Covers/cover-janitor.png"
 date: "2026-04-03T08:15:02-04:00"
+category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "/assets/blog/Covers/cover-janitor.png"
 ---
 
 ## Engaging Your Cleaning Staff in Accountability Practices

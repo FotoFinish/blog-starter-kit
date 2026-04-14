@@ -1,13 +1,14 @@
 ---
 title: "Overcoming Barriers to Technology Adoption in Facility Management Training"
 excerpt: "Explore strategies to overcome challenges in technology adoption during facility management training. Enhance staff engagement and operational efficiency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-03-19T08:15:03-04:00"
+category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Overcoming Barriers to Technology Adoption in Facility Management Training

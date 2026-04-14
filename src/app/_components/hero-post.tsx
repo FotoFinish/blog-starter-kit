@@ -11,6 +11,7 @@ type Props = {
   excerpt: string;
   author: Author;
   slug: string;
+  category?: string;
 };
 
 export function HeroPost({
@@ -20,26 +21,49 @@ export function HeroPost({
   excerpt,
   author,
   slug,
+  category,
 }: Props) {
   return (
-    <section>
-      <div className="mb-8 md:mb-16">
-        <CoverImage title={title} src={coverImage} slug={slug} />
-      </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-        <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+    <section className="mb-16">
+      <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+        {/* Cover image */}
+        <div className="w-full" style={{ maxHeight: "520px", overflow: "hidden" }}>
+          <CoverImage title={title} src={coverImage} slug={slug} />
+        </div>
+        {/* Content */}
+        <div className="p-8">
+          {/* Category badge */}
+          <div className="mb-4">
+            <span
+              className="inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide text-white"
+              style={{ backgroundColor: "#003F73" }}
+            >
+              {category || "Insights"}
+            </span>
+          </div>
+          <h2 className="mb-4 font-extrabold leading-tight" style={{ fontSize: "clamp(1.75rem, 3vw, 2.5rem)", color: "#003F73" }}>
             <Link href={`/posts/${slug}`} className="hover:underline">
               {title}
             </Link>
-          </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+          </h2>
+          <p className="text-base leading-relaxed mb-6" style={{ color: "#555555" }}>
+            {excerpt}
+          </p>
+          <div className="flex items-center justify-between flex-wrap gap-4">
+            <div className="flex items-center gap-4">
+              <Avatar name={author.name} picture={author.picture} />
+              <span className="text-sm" style={{ color: "#555555" }}>
+                <DateFormatter dateString={date} />
+              </span>
+            </div>
+            <Link
+              href={`/posts/${slug}`}
+              className="inline-block px-5 py-2 rounded-lg text-sm font-bold text-white transition-opacity hover:opacity-90"
+              style={{ backgroundColor: "#003F73" }}
+            >
+              Read Article &#8594;
+            </Link>
           </div>
-        </div>
-        <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>
     </section>

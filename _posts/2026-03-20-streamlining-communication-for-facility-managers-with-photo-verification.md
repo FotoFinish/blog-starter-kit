@@ -1,13 +1,14 @@
 ---
 title: "Streamlining Communication for Facility Managers with Photo Verification"
 excerpt: "Explore how photo verification enhances communication, accountability, and transparency for facility managers in janitorial operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-manager.png"
 date: "2026-03-20T08:15:03-04:00"
+category: "Photo Verification"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-manager.png"
 ---
 
 ## Streamlining Communication for Facility Managers with Photo Verification

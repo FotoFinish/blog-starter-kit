@@ -1,13 +1,14 @@
 ---
 title: "Addressing Common Challenges in Multi-Site Oversight"
 excerpt: "Explore key multi-site oversight challenges and discover practical strategies to enhance operational efficiency and accountability."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "/assets/blog/Covers/cover-setup.png"
 date: "2026-04-02T08:15:07-04:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "/assets/blog/Covers/cover-setup.png"
 ---
 
 ### Addressing Common Challenges in Multi-Site Oversight

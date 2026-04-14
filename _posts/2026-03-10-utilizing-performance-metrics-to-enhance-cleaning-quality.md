@@ -1,13 +1,14 @@
 ---
 title: "Utilizing Performance Metrics to Enhance Cleaning Quality"
 excerpt: "Learn how to improve cleaning quality with actionable insights and performance metrics. Discover effective strategies for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-team-reports.png"
 date: "2026-03-10T08:15:05-04:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-team-reports.png"
 ---
 
 # Utilizing Performance Metrics to Enhance Cleaning Quality

@@ -1,13 +1,14 @@
 ---
 title: "Utilizing Photo-Verified Checklists to Meet Regulatory Standards"
 excerpt: "Discover how photo-verified checklists can enhance compliance and operational standards in janitorial tasks for facility managers."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-03-24T08:15:02-04:00"
+category: "Compliance"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Utilizing Photo-Verified Checklists to Meet Regulatory Standards

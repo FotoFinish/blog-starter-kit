@@ -1,13 +1,14 @@
 ---
 title: "Preparing for Compliance Audits in Janitorial Services"
 excerpt: "A comprehensive guide for facility managers on preparing for compliance audits in janitorial services, ensuring operational adherence to regulatory standards."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-evaluation.png"
 date: "2026-03-23T08:15:04-04:00"
+category: "Compliance"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-evaluation.png"
 ---
 
 ### Preparing for Compliance Audits in Janitorial Services

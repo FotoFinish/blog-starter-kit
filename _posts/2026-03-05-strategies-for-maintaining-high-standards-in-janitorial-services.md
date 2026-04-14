@@ -1,13 +1,14 @@
 ---
 title: "Strategies for Maintaining High Standards in Janitorial Services"
 excerpt: "Discover practical strategies for facility managers to maintain high standards in janitorial services, ensuring cleanliness and accountability."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-janitor.png"
 date: "2026-03-05T08:15:03-05:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-janitor.png"
 ---
 
 # Strategies for Maintaining High Standards in Janitorial Services

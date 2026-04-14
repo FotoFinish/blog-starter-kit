@@ -1,13 +1,14 @@
 ---
 title: "Best Practices for Overseeing Janitorial Staff Across Diverse Locations"
 excerpt: "Learn best practices for overseeing janitorial staff in multi-site operations, ensuring efficiency and high service quality."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-manager.png"
 date: "2026-03-12T08:15:02-04:00"
+category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-manager.png"
 ---
 
 ## Best Practices for Overseeing Janitorial Staff Across Diverse Locations

@@ -1,13 +1,14 @@
 ---
 title: "Budgeting for Unexpected Expenses in Multi-Site Cleaning Operations"
 excerpt: "Learn practical strategies for budgeting for unexpected expenses in multi-site cleaning operations to ensure smooth operations and robust financial health."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-team-reports.png"
 date: "2026-03-30T08:15:07-04:00"
+category: "Cost Reduction"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-team-reports.png"
 ---
 
 ## Budgeting for Unexpected Expenses in Multi-Site Cleaning Operations

@@ -1,13 +1,14 @@
 ---
 title: "Common Compliance Pitfalls in Multi-Site Facility Operations"
 excerpt: "Explore common compliance pitfalls in multi-site facility operations and discover actionable insights to enhance oversight and accountability."
-coverImage: "/assets/blog/Covers/Cover1.png"
+coverImage: "/assets/blog/Covers/cover-evaluation.png"
 date: "2026-03-27T08:15:04-04:00"
+category: "Compliance"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover1.png"
+  url: "/assets/blog/Covers/cover-evaluation.png"
 ---
 
 ### Common Compliance Pitfalls in Multi-Site Facility Operations

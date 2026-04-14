@@ -1,13 +1,14 @@
 ---
 title: "Building a Culture of Quality Control Among Facility Teams"
 excerpt: "Discover practical strategies for fostering a culture of quality control among facility teams to enhance operational efficiency and cleanliness."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-03-31T08:15:05-04:00"
+category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Building a Culture of Quality Control Among Facility Teams
