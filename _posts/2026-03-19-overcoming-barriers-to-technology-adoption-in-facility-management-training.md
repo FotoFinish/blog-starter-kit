@@ -5,8 +5,8 @@ coverImage: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1300
 date: "2026-03-19T08:15:03-04:00"
 category: "Training"
 author:
-  name: "Alejandro Bremer"
-  picture: "/assets/blog/authors/ABS.jpeg"
+  name: "David Godfrey"
+  picture: "/assets/blog/authors/DG.jpeg"
 ogImage:
   url: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1300&h=630&fit=crop&q=80"
 ---

@@ -5,8 +5,8 @@ coverImage: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1300
 date: "2026-03-05T08:15:03-05:00"
 category: "Facility Management"
 author:
-  name: "Alejandro Bremer"
-  picture: "/assets/blog/authors/ABS.jpeg"
+  name: "David Godfrey"
+  picture: "/assets/blog/authors/DG.jpeg"
 ogImage:
   url: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1300&h=630&fit=crop&q=80"
 ---
