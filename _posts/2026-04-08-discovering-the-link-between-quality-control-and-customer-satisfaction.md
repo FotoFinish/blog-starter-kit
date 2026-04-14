@@ -5,8 +5,8 @@ coverImage: "https://images.unsplash.com/photo-1553484771-371a605b060b?w=1300&h=
 date: "2026-04-08T08:15:03-04:00"
 category: "Photo Verification"
 author:
-  name: "Alejandro Bremer"
-  picture: "/assets/blog/authors/ABS.jpeg"
+  name: "Ricardo Ganem"
+  picture: "/assets/blog/authors/RG.jpeg"
 ogImage:
   url: "https://images.unsplash.com/photo-1553484771-371a605b060b?w=1300&h=630&fit=crop&q=80"
 ---

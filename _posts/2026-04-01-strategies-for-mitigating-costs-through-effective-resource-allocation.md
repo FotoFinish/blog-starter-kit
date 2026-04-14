@@ -5,8 +5,8 @@ coverImage: "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1300&h=
 date: "2026-04-01T08:15:07-04:00"
 category: "Cost Reduction"
 author:
-  name: "Alejandro Bremer"
-  picture: "/assets/blog/authors/ABS.jpeg"
+  name: "Ricardo Ganem"
+  picture: "/assets/blog/authors/RG.jpeg"
 ogImage:
   url: "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1300&h=630&fit=crop&q=80"
 ---
