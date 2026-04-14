@@ -1,14 +1,14 @@
 ---
 title: "Tackling Inconsistent Cleaning Protocols Across Multiple Sites"
 excerpt: "Explore actionable strategies for facility managers to tackle inconsistent cleaning protocols across multiple sites, enhancing hygiene and operational efficiency."
-coverImage: "/assets/blog/Covers/cover-setup.png"
+coverImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-11T08:15:02-04:00"
 category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-setup.png"
+  url: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## Tackling Inconsistent Cleaning Protocols Across Multiple Sites

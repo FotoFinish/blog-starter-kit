@@ -1,14 +1,14 @@
 ---
 title: "Ensuring Staff Buy-In for Digital Checklists in Janitorial Services"
 excerpt: "Explore effective strategies to ensure staff buy-in for digital checklists in janitorial services, enhancing accountability and efficiency."
-coverImage: "/assets/blog/Covers/cover-hands-app.png"
+coverImage: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-17T08:15:01-04:00"
 category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-hands-app.png"
+  url: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## Ensuring Staff Buy-In for Digital Checklists in Janitorial Services

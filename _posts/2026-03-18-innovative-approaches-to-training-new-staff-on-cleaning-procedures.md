@@ -1,14 +1,14 @@
 ---
 title: "Innovative Approaches to Training New Staff on Cleaning Procedures"
 excerpt: "Explore innovative training methods for new cleaning staff, enhancing operational efficiency and accountability in janitorial practices."
-coverImage: "/assets/blog/Covers/cover-janitor.png"
+coverImage: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-18T08:15:02-04:00"
 category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-janitor.png"
+  url: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1300&h=630&fit=crop&q=80"
 ---
 
 ### Innovative Approaches to Training New Staff on Cleaning Procedures

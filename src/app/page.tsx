@@ -1,33 +1,14 @@
-import Container from "@/app/_components/container";
-import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
-import { MoreStories } from "@/app/_components/more-stories";
+import { BlogFeed } from "@/app/_components/blog-feed";
 import { getAllPosts } from "@/lib/api";
 
 export default function Index() {
   const allPosts = getAllPosts();
 
-  const heroPost = allPosts[0];
-
-  const morePosts = allPosts.slice(1);
-
   return (
     <main>
       <Intro />
-      <Container>
-        <div className="pt-10">
-          <HeroPost
-            title={heroPost.title}
-            coverImage={heroPost.coverImage}
-            date={heroPost.date}
-            author={heroPost.author}
-            slug={heroPost.slug}
-            excerpt={heroPost.excerpt}
-            category={heroPost.category}
-          />
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-        </div>
-      </Container>
+      <BlogFeed posts={allPosts} />
 
       {/* Bottom CTA section */}
       <section className="w-full py-20 px-6 text-center" style={{ backgroundColor: "#003F73" }}>

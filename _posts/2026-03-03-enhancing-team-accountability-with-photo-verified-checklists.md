@@ -1,14 +1,14 @@
 ---
 title: "Enhancing Team Accountability with Photo-Verified Checklists"
 excerpt: "Explore how photo-verified checklists can enhance team accountability and operational efficiency for Operations Managers."
-coverImage: "/assets/blog/Covers/cover-hands-app.png"
+coverImage: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-03T08:15:04-05:00"
 category: "Photo Verification"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-hands-app.png"
+  url: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## Enhancing Team Accountability with Photo-Verified Checklists

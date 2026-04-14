@@ -1,14 +1,14 @@
 ---
 title: "Ensuring Consistency Across Multiple Locations with Unified Training"
 excerpt: "Explore how unified training can ensure consistency across multiple locations, enhance accountability, and boost employee morale in your operations."
-coverImage: "/assets/blog/Covers/cover-fotoflow.png"
+coverImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1300&h=630&fit=crop&q=80"
 date: "2026-04-06T08:15:05-04:00"
 category: "Training"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-fotoflow.png"
+  url: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1300&h=630&fit=crop&q=80"
 ---
 
 ### Ensuring Consistency Across Multiple Locations with Unified Training

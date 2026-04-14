@@ -1,14 +1,14 @@
 ---
 title: "The Role of Feedback in Enhancing Compliance Audits"
 excerpt: "Explore how feedback in compliance audits can enhance accountability, drive improvement, and promote transparency within your organization."
-coverImage: "/assets/blog/Covers/cover-evaluation.png"
+coverImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1300&h=630&fit=crop&q=80"
 date: "2026-04-09T08:15:05-04:00"
 category: "Compliance"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-evaluation.png"
+  url: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## The Role of Feedback in Enhancing Compliance Audits

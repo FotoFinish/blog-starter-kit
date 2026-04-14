@@ -1,14 +1,14 @@
 ---
 title: "Techniques for Reducing Operational Costs in Janitorial Management"
 excerpt: "Explore actionable insights for reducing operational costs in janitorial management, focusing on efficiency and accountability across multi-site operations."
-coverImage: "/assets/blog/Covers/cover-dashboard.png"
+coverImage: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-25T08:15:07-04:00"
 category: "Cost Reduction"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-dashboard.png"
+  url: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## Techniques for Reducing Operational Costs in Janitorial Management

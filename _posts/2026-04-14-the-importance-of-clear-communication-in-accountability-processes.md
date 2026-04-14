@@ -1,13 +1,13 @@
 ---
 title: "The Importance of Clear Communication in Accountability Processes"
 excerpt: "Explore how clear communication enhances accountability processes in operational management, leading to improved efficiency, collaboration, and morale."
-coverImage: "/assets/blog/Covers/Cover2.png"
+coverImage: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1300&h=630&fit=crop&q=80"
 date: "2026-04-14T08:15:04-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover2.png"
+  url: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## The Importance of Clear Communication in Accountability Processes

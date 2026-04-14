@@ -1,14 +1,14 @@
 ---
 title: "Case Studies on Improving Quality Control Mechanisms"
 excerpt: "Explore actionable insights derived from quality control case studies that enhance accountability and operational efficiency in janitorial services."
-coverImage: "/assets/blog/Covers/cover-bathroom-app.png"
+coverImage: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1300&h=630&fit=crop&q=80"
 date: "2026-04-07T08:15:04-04:00"
 category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-bathroom-app.png"
+  url: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1300&h=630&fit=crop&q=80"
 ---
 
 ### Case Studies on Improving Quality Control Mechanisms

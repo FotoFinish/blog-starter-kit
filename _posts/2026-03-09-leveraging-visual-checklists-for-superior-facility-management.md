@@ -1,14 +1,14 @@
 ---
 title: "Leveraging Visual Checklists for Superior Facility Management"
 excerpt: "Discover the benefits and implementation strategies of visual checklists in facility management for enhanced accountability and efficiency."
-coverImage: "/assets/blog/Covers/cover-fotoflow.png"
+coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-09T08:15:02-04:00"
 category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-fotoflow.png"
+  url: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1300&h=630&fit=crop&q=80"
 ---
 
 # Leveraging Visual Checklists for Superior Facility Management

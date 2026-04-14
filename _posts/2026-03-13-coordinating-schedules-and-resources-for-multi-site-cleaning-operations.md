@@ -1,14 +1,14 @@
 ---
 title: "Coordinating Schedules and Resources for Multi-Site Cleaning Operations"
 excerpt: "Explore actionable strategies for effective multi-site cleaning coordination, enhancing efficiency and accountability across your operations."
-coverImage: "/assets/blog/Covers/cover-team-reports.png"
+coverImage: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1300&h=630&fit=crop&q=80"
 date: "2026-03-13T08:15:04-04:00"
 category: "Facility Management"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/cover-team-reports.png"
+  url: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1300&h=630&fit=crop&q=80"
 ---
 
 ## Coordinating Schedules and Resources for Multi-Site Cleaning Operations
