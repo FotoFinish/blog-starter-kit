@@ -56,7 +56,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-gray-600 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-400">
-            &copy; 2025 Modern Cleaning Concept LP
+            &copy; 2026 Modern Cleaning Concept LP
           </p>
           <div className="flex items-center gap-4">
             {/* Instagram */}
