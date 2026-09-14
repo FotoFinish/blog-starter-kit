@@ -1,13 +1,13 @@
 ---
 title: "Innovative Strategies for Daily Quality Assurance Checks in Facilities"
 excerpt: "Explore effective strategies for implementing daily quality assurance checks in facilities management to enhance accountability and transparency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/Cover2.png"
 date: "2026-05-22T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/Cover2.png"
 ---
 
 ## Introduction

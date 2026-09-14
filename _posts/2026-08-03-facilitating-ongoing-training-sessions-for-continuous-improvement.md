@@ -1,13 +1,13 @@
 ---
 title: "Facilitating Ongoing Training Sessions for Continuous Improvement"
 excerpt: "Explore effective strategies for implementing ongoing training sessions to enhance accountability and performance in janitorial operations. Discover actionable insights for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-08-03T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

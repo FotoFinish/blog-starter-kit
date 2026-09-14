@@ -1,13 +1,13 @@
 ---
 title: "How to Leverage Photo Verification for Quality Standards in Janitorial Services"
 excerpt: "Explore the critical role of photo verification in maintaining quality standards in janitorial services, offering actionable insights for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-05-21T08:15:05-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

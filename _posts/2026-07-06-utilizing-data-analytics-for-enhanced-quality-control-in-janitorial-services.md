@@ -1,13 +1,13 @@
 ---
 title: "Utilizing Data Analytics for Enhanced Quality Control in Janitorial Services"
 excerpt: "Explore how data analytics can improve quality control in janitorial services, offering actionable insights and strategies for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-07-06T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

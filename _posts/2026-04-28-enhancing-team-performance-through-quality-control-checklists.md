@@ -1,13 +1,13 @@
 ---
 title: "Enhancing Team Performance Through Quality Control Checklists"
 excerpt: "Discover how Quality Control Checklists can enhance team performance in janitorial operations, ensuring accountability and operational efficiency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-04-28T08:15:05-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Enhancing Team Performance Through Quality Control Checklists

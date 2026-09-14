@@ -1,13 +1,13 @@
 ---
 title: "Best Practices for Managing Facilities Across Different Regions"
 excerpt: "Explore actionable best practices for managing facilities across different regions, tailored for regional managers seeking to enhance operational efficiency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-07-28T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

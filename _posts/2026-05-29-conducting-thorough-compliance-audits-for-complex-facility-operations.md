@@ -1,13 +1,13 @@
 ---
 title: "Conducting Thorough Compliance Audits for Complex Facility Operations"
 excerpt: "Learn how to conduct effective compliance audits for facilities, ensuring accountability and transparency in operations. Discover practical insights and common mistakes to avoid."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-05-29T08:15:06-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

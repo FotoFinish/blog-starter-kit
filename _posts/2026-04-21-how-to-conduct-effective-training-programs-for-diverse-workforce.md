@@ -1,13 +1,13 @@
 ---
 title: "How to Conduct Effective Training Programs for a Diverse Workforce"
 excerpt: "Explore actionable strategies for conducting effective training programs tailored for a diverse workforce in facility management."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-04-21T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## How to Conduct Effective Training Programs for a Diverse Workforce

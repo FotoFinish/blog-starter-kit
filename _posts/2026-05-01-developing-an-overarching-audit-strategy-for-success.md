@@ -1,13 +1,13 @@
 ---
 title: "Developing an Overarching Audit Strategy for Success"
 excerpt: "Explore how to develop a comprehensive audit strategy that enhances accountability and transparency in janitorial and multi-site operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-05-01T08:15:04-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Developing an Overarching Audit Strategy for Success

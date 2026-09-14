@@ -1,13 +1,13 @@
 ---
 title: "Overcoming Challenges in Coordinating Cleaning Scheduling for Large Facilities"
 excerpt: "Discover practical insights and strategies to enhance cleaning scheduling for large facilities, ensuring efficiency and accountability."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-05-15T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

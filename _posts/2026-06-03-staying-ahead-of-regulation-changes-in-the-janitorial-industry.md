@@ -1,13 +1,13 @@
 ---
 title: "Staying Ahead of Regulation Changes in the Janitorial Industry"
 excerpt: "Explore how facility managers can stay informed and compliant with regulation changes in the janitorial industry, ensuring accountability and transparency in operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-06-03T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

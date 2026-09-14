@@ -1,13 +1,13 @@
 ---
 title: "Integrating Quality Control Metrics into Daily Operations"
 excerpt: "Explore how integrating quality control metrics into daily operations enhances accountability and transparency in janitorial services."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-06-16T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

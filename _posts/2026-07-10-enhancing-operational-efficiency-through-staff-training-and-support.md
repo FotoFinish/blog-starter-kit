@@ -1,13 +1,13 @@
 ---
 title: "Enhancing Operational Efficiency through Staff Training and Support"
 excerpt: "Explore actionable strategies to boost staff training efficiency in your organization. Learn how effective training and support enhance operational performance."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-07-10T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

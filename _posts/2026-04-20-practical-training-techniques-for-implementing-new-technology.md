@@ -1,13 +1,13 @@
 ---
 title: "Practical Training Techniques for Implementing New Technology"
 excerpt: "Explore actionable training techniques for new technology that can enhance staff understanding and improve operations management."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-04-20T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Practical Training Techniques for Implementing New Technology

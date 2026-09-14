@@ -1,13 +1,13 @@
 ---
 title: "Real-Time Performance Monitoring Tools for Janitorial Staff"
 excerpt: "Explore the importance of real-time performance monitoring tools for janitorial staff, offering actionable insights to enhance accountability and efficiency in operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-06-11T08:15:02-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction  

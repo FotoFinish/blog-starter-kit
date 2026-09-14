@@ -1,13 +1,13 @@
 ---
 title: "Navigating Compliance Requirements in Multi-Site Facilities"
 excerpt: "Explore practical insights for managing compliance in multi-site facilities, addressing common challenges and mistakes, and actionable steps for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-06-26T08:15:02-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

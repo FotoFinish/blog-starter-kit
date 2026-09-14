@@ -1,13 +1,13 @@
 ---
 title: "Preparing for an Effective Audit Process in Multi-Site Cleaning Operations"
 excerpt: "Learn how to prepare for an effective audit process in multi-site cleaning operations, ensuring accountability and transparency in your janitorial services."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-05-27T08:15:05-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

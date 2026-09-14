@@ -1,13 +1,13 @@
 ---
 title: "Setting Clear Performance Expectations for Multi-Site Operators"
 excerpt: "Learn how to set clear performance expectations for multi-site operations. Discover actionable insights and common mistakes to avoid."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-07-14T08:15:04-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

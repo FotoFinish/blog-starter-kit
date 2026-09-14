@@ -1,13 +1,13 @@
 ---
 title: "Preventive Measures for Audit Readiness in Facility Operations"
 excerpt: "Explore practical audit readiness strategies to enhance accountability in facility operations. Learn effective preventive measures for seamless compliance."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-04-30T08:15:04-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ### Preventive Measures for Audit Readiness in Facility Operations

@@ -1,13 +1,13 @@
 ---
 title: "Tools for Tracking Staff Performance and Ensuring Responsibility"
 excerpt: "Explore effective tools for tracking staff performance in janitorial and multi-site operations, ensuring accountability and transparency with practical insights."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-05-25T08:15:13-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

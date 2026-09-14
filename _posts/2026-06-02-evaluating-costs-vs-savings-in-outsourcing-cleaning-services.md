@@ -1,13 +1,13 @@
 ---
 title: "Evaluating Costs vs. Savings in Outsourcing Cleaning Services"
 excerpt: "Explore the critical factors in evaluating outsourcing cleaning services costs for facility managers. Discover actionable insights and common pitfalls."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-06-02T08:15:02-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

@@ -1,13 +1,13 @@
 ---
 title: "Addressing Performance Gaps with Real-Time Reporting Tools in Janitorial Services"
 excerpt: "Explore how real-time reporting tools can bridge performance gaps in janitorial services, enhancing efficiency and accountability."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-06-09T08:15:06-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

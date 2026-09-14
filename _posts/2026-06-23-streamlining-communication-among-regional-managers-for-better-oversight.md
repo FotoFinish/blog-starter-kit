@@ -1,13 +1,13 @@
 ---
 title: "Streamlining Communication Among Regional Managers for Better Oversight"
 excerpt: "Explore effective strategies for enhancing communication among regional managers to improve oversight and accountability in janitorial operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-06-23T08:15:05-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

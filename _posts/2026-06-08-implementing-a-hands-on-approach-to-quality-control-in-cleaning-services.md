@@ -1,13 +1,13 @@
 ---
 title: "Implementing a Hands-On Approach to Quality Control in Cleaning Services"
 excerpt: "Discover the importance of a hands-on approach to quality control in cleaning services, offering actionable insights for facility managers to enhance operational efficiency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/Cover2.png"
 date: "2026-06-08T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/Cover2.png"
 ---
 
 ## Introduction

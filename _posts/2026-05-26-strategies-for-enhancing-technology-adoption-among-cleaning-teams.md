@@ -1,13 +1,13 @@
 ---
 title: "Strategies for Enhancing Technology Adoption Among Cleaning Teams"
 excerpt: "Explore effective strategies to enhance technology adoption among cleaning teams, ensuring accountability and efficiency in janitorial operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-toilet.png"
 date: "2026-05-26T08:15:04-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-toilet.png"
 ---
 
 ## Introduction

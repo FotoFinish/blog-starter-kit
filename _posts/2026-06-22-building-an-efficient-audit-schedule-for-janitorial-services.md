@@ -1,13 +1,13 @@
 ---
 title: "Building an Efficient Audit Schedule for Janitorial Services"
 excerpt: "Learn how to create a practical and effective janitorial audit schedule that enhances accountability and transparency in multi-site operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-06-22T08:15:07-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction

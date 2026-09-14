@@ -1,13 +1,13 @@
 ---
 title: "Analyzing Real-Time Data to Improve Accountability in Cleaning Operations"
 excerpt: "Explore how real-time data can enhance accountability in cleaning operations, offering actionable insights for facility managers."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/Cover1.png"
 date: "2026-06-01T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/Cover1.png"
 ---
 
 ## Introduction

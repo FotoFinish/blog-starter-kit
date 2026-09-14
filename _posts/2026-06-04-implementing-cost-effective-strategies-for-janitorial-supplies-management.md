@@ -1,13 +1,13 @@
 ---
 title: "Implementing Cost-Effective Strategies for Janitorial Supplies Management"
 excerpt: "Explore effective strategies for managing janitorial supplies that enhance accountability and transparency in facility operations."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-hands-app.png"
 date: "2026-06-04T08:15:03-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-hands-app.png"
 ---
 
 ## Introduction

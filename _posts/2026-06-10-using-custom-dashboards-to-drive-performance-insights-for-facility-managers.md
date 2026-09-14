@@ -1,13 +1,13 @@
 ---
 title: "Using Custom Dashboards to Drive Performance Insights for Facility Managers"
 excerpt: "Explore how custom dashboards can enhance accountability and transparency for facility managers, driving performance insights and operational efficiency."
-coverImage: "/assets/blog/Covers/Cover3.png"
+coverImage: "/assets/blog/Covers/cover-app-field.png"
 date: "2026-06-10T08:15:05-04:00"
 author:
   name: "Alejandro Bremer"
   picture: "/assets/blog/authors/ABS.jpeg"
 ogImage:
-  url: "/assets/blog/Covers/Cover3.png"
+  url: "/assets/blog/Covers/cover-app-field.png"
 ---
 
 ## Introduction
